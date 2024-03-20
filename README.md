@@ -1,1 +1,0 @@
-# Jenkins-Sonarkube-Docker
